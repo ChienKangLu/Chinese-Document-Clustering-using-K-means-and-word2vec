@@ -8,4 +8,6 @@ Document Clustering is a method for finding structure within a collection of doc
 + Chinese word is different from English: Maybe two or three words concatenate together be the smallest semantic unit
 
 ## Experiment Flow chart
-
+<p align="center">
+  <img width="400" src="https://github.com/ChienKangLu/Chinese-Document-Clustering-using-K-means-and-word2vec/blob/master/flow-chart.png" />
+</p>
