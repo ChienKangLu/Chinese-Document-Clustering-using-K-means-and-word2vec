@@ -24,5 +24,22 @@ Document Clustering is a method for finding structure within a collection of doc
 + The Input is one-hot word vector
 + The output is the corresponding word around the input word depend on the window size 
 + The first trained parameter matrix  is the dictionary we want(every word will get a vector to represent themselves)
++ Dimension:250
++ Window size:5
++ Get a word dictionary which contains 23,767 vectors from 2,999,179 tokens 
+
+## Document vector
++ I get the document vector by taking the average of all word vector in a document
++ Use PCA to reduce the dimension
+
+## Clustering 
++ K means
++ Use silhouette analysis to find which cluster number is better
+
+## Document visualization
+
+
+
+
 
 
