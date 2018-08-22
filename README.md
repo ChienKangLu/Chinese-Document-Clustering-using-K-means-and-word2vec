@@ -18,7 +18,11 @@ Document Clustering is a method for finding structure within a collection of doc
 3. Remove alpha and number, only preserve chinese 
 4. Use jeibar to do sentense segmentation
 
-## Word2vec
+## Word2vec(genism,python 3.6)
 + Using the Skip-gram model: use a word to predict a target context
-+ 
++ The method is a single hidden layer neural network 
++ The Input is one-hot word vector
++ The output is the corresponding word around the input word depend on the window size 
++ The first trained parameter matrix  is the dictionary we want(every word will get a vector to represent themselves)
+
 
