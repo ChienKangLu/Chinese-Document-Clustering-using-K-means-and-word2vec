@@ -34,7 +34,7 @@ Document Clustering is a method for finding structure within a collection of doc
 
 ## Clustering 
 + K means
-+ Use silhouette analysis to find which cluster number is better
++ Use silhouette analysis to find how many cluster number is better
 
 ## Document visualization
 
