@@ -37,8 +37,8 @@ Document Clustering is a method for finding structure within a collection of doc
 + Use silhouette analysis to find how many cluster number is better
 
 ## Document visualization
-![image]("https://github.com/ChienKangLu/Chinese-Document-Clustering-using-K-means-and-word2vec/blob/master/documents.png")
-![image]("https://github.com/ChienKangLu/Chinese-Document-Clustering-using-K-means-and-word2vec/blob/master/document%20clusters.png")
+![image](https://github.com/ChienKangLu/Chinese-Document-Clustering-using-K-means-and-word2vec/blob/master/documents.png)
+![image](https://github.com/ChienKangLu/Chinese-Document-Clustering-using-K-means-and-word2vec/blob/master/document%20clusters.png)
 
 
 
